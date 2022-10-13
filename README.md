@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @anicheeee
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning diffrent programming languages 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me - no way
 
 <!---
 anicheeee/anicheeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
